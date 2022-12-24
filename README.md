@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Software Development, Machine Learning and Robotics
 <!-- - 🌱 I’m currently learning -->
-- 💞️ I’m looking to collaborate on projects related to distributed systems, unsupervised learning and computer vision.
+- 💞️ I’m looking to collaborate on projects related to distributed systems, deep unsupervised learning and computer vision.
 - 📫 How to reach me ahmedsalahamaksoud@gmail.com
 
 <!---
